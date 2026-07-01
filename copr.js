@@ -3,7 +3,7 @@ const { DiscordStreamClient } = require('discord-stream-client');
 const puppeteer = require('puppeteer');
 
 // MASUKKAN TOKEN AKUN DISCORD BIASA ANDA DI SINI
-const TOKEN = 'MASUKKAN_TOKEN_AKUN_ANDA_DISINI';
+const TOKEN = 'MTUyMTc5Mzc0MjY5OTM2ODQ5MQ.GqgWlT.V26CrSKm09qE_oPQh1Qzz_v04eVeeeTHjg2eAc';
 
 const client = new Client();
 const streamClient = new DiscordStreamClient(client);
